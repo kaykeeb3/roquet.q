@@ -1,6 +1,6 @@
 {
-  "name": "rocket.q",
-  "version": "1.0.0",
+  "name": "roquet.q",
+  "version": "1.0.1",
   "description": "Projeto desenvolvido para gerenciar perguntas anonimas",
   "main": "src/server.js",
   "scripts": {
