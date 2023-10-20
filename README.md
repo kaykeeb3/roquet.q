@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/rocketseat-education/nlw-06-discover/blob/main/.github/capa.png" width="100%" alt="Rocket.Q" />
+  <img src="https://github.com/rocketseat-education/nlw-06-discover/blob/main/.github/capa.png" width="100%" alt="Roquet.Q" />
 </p>
 
-<h1 align="center">Rocket.Q</h1>
+<h1 align="center">Roquet.Q</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rocket.Q é uma aplicação de interação através de perguntas, permitindo criar salas para que os usuários anônimos façam perguntas. O criador da sala, usando uma senha, pode gerenciar essas perguntas e marcá-las como lidas.
+O Roquet.Q é uma aplicação de interação através de perguntas, permitindo criar salas para que os usuários anônimos façam perguntas. O criador da sala, usando uma senha, pode gerenciar essas perguntas e marcá-las como lidas.
 
 ## 🔖 Layout
 
